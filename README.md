@@ -1,5 +1,5 @@
-#templermonkey-scripts
-Some tempermonkey userscripts created by me for better life...
+#tampermonkey-scripts
+Some tampermonkey userscripts created by me for better life...
 
 ##more-hangouts.js
 
