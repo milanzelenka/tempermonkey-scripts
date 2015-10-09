@@ -3,10 +3,10 @@
 // @name           More Hangouts
 // @description    Make hangouts.google.com more compact for display more conversations
 // @namespace      https://github.com/milanzelenka/
-// @updateURL      https://
-// @downloadURL    https://
+// @updateURL      https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
+// @downloadURL    https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
 // @category       Info
-// @version        0.9.9
+// @version        1.0.0
 // @include        https://hangouts.google.com/*
 // @match          https://hangouts.google.com/*
 // @match          https://talkgadget.google.com/*
