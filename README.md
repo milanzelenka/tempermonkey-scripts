@@ -1,6 +1,3 @@
-#tampermonkey-scripts
-Some tampermonkey userscripts created by me for better life...
+#tempermonkey-scripts
 
-##more-hangouts.js
-
-Make hangouts.google.com more compact for display more conversations
+please go to: https://github.com/milanzelenka/user-javascripts
