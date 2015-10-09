@@ -1,18 +1,18 @@
 // ==UserScript==
 // @id             more-hangouts
 // @name           More Hangouts
-// @description    Make hangouts.google.com more compact for display more conversations
-// @namespace      https://github.com/milanzelenka/
-// @updateURL      https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
-// @downloadURL    https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
 // @category       Info
+// @namespace      https://github.com/milanzelenka/
+// @description    Make hangouts.google.com more compact for display more conversations
+// @author         Milan Zelenka
 // @version        1.0.0
+// @downloadURL    https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
+// @updateURL      https://raw.githubusercontent.com/milanzelenka/tempermonkey-scripts/master/more-hangouts.js
 // @include        https://hangouts.google.com/*
 // @match          https://hangouts.google.com/*
 // @match          https://talkgadget.google.com/*
 // @grant          none
 // ==/UserScript==
-
 
 function addGlobalStyle(css) {
     var head, style;
